@@ -3,35 +3,19 @@
     {
       "sigla": "AC",
       "nome": "Acre",
-      "cidades": [
-        "Acrelândia",
-        "Assis Brasil",
-        "Brasiléia",
-        "Bujari",
-        "Capixaba",
-        "Cruzeiro do Sul",
-        "Epitaciolândia",
-        "Feijó",
-        "Jordão",
-        "Mâncio Lima",
-        "Manoel Urbano",
-        "Marechal Thaumaturgo",
-        "Plácido de Castro",
-        "Porto Acre",
-        "Porto Walter",
-        "Rio Branco",
-        "Rodrigues Alves",
-        "Santa Rosa do Purus",
-        "Sena Madureira",
-        "Senador Guiomard",
-        "Tarauacá",
-        "Xapuri"
+      "politicos": [
+		"JORGE VIANA (PT)",
+		"MÁRCIO BITTAR (MDB)",
+		"MINORU KINPARA (REDE)",
+		"NEY AMORIM (PT)",
+		"PEDRAZZA (PSL)",
+		"PETECÃO (PSD)"
       ]
     },
     {
       "sigla": "AL",
       "nome": "Alagoas",
-      "cidades": [
+      "politicos": [
         "Água Branca",
         "Anadia",
         "Arapiraca",
@@ -139,7 +123,7 @@
     {
       "sigla": "AM",
       "nome": "Amazonas",
-      "cidades": [
+      "politicos": [
         "Alvarães",
         "Amaturá",
         "Anamã",
@@ -207,7 +191,7 @@
     {
       "sigla": "AP",
       "nome": "Amapá",
-      "cidades": [
+      "politicos": [
         "Amapá",
         "Calçoene",
         "Cutias",
@@ -229,7 +213,7 @@
     {
       "sigla": "BA",
       "nome": "Bahia",
-      "cidades": [
+      "politicos": [
         "Abaíra",
         "Abaré",
         "Acajutiba",
@@ -652,7 +636,7 @@
     {
       "sigla": "CE",
       "nome": "Ceará",
-      "cidades": [
+      "politicos": [
         "Abaiara",
         "Acarapé",
         "Acaraú",
@@ -842,14 +826,14 @@
     {
       "sigla": "DF",
       "nome": "Distrito Federal",
-      "cidades": [
+      "politicos": [
         "Brasília"
       ]
     },
     {
       "sigla": "ES",
       "nome": "Espírito Santo",
-      "cidades": [
+      "politicos": [
         "Afonso Cláudio",
         "Água Doce do Norte",
         "Águia Branca",
@@ -933,7 +917,7 @@
     {
       "sigla": "GO",
       "nome": "Goiás",
-      "cidades": [
+      "politicos": [
         "Abadia de Goiás",
         "Abadiânia",
         "Acreúna",
@@ -1185,7 +1169,7 @@
     {
       "sigla": "MA",
       "nome": "Maranhão",
-      "cidades": [
+      "politicos": [
         "Açailândia",
         "Afonso Cunha",
         "Água Doce do Maranhão",
@@ -1408,7 +1392,7 @@
     {
       "sigla": "MG",
       "nome": "Minas Gerais",
-      "cidades": [
+      "politicos": [
         "Abadia dos Dourados",
         "Abaeté",
         "Abre Campo",
@@ -2267,7 +2251,7 @@
     {
       "sigla": "MS",
       "nome": "Mato Grosso do Sul",
-      "cidades": [
+      "politicos": [
         "Água Clara",
         "Alcinópolis",
         "Amambaí",
@@ -2350,7 +2334,7 @@
     {
       "sigla": "MT",
       "nome": "Mato Grosso",
-      "cidades": [
+      "politicos": [
         "Acorizal",
         "Água Boa",
         "Alta Floresta",
@@ -2495,7 +2479,7 @@
     {
       "sigla": "PA",
       "nome": "Pará",
-      "cidades": [
+      "politicos": [
         "Abaetetuba",
         "Abel Figueiredo",
         "Acará",
@@ -2644,7 +2628,7 @@
     {
       "sigla": "PB",
       "nome": "Paraíba",
-      "cidades": [
+      "politicos": [
         "Água Branca",
         "Aguiar",
         "Alagoa Grande",
@@ -2873,7 +2857,7 @@
     {
       "sigla": "PE",
       "nome": "Pernambuco",
-      "cidades": [
+      "politicos": [
         "Abreu e Lima",
         "Afogados da Ingazeira",
         "Afrânio",
@@ -3064,7 +3048,7 @@
     {
       "sigla": "PI",
       "nome": "Piauí",
-      "cidades": [
+      "politicos": [
         "Acauã",
         "Agricolândia",
         "Água Branca",
@@ -3292,7 +3276,7 @@
     {
       "sigla": "PR",
       "nome": "Paraná",
-      "cidades": [
+      "politicos": [
         "Abatiá",
         "Adrianópolis",
         "Agudos do Sul",
@@ -3697,7 +3681,7 @@
     {
       "sigla": "RJ",
       "nome": "Rio de Janeiro",
-      "cidades": [
+      "politicos": [
         "Angra dos Reis",
         "Aperibé",
         "Araruama",
@@ -3795,7 +3779,7 @@
     {
       "sigla": "RN",
       "nome": "Rio Grande do Norte",
-      "cidades": [
+      "politicos": [
         "Acari",
         "Açu",
         "Afonso Bezerra",
@@ -3968,7 +3952,7 @@
     {
       "sigla": "RO",
       "nome": "Rondônia",
-      "cidades": [
+      "politicos": [
         "Alta Floresta d'Oeste",
         "Alto Alegre do Parecis",
         "Alto Paraíso",
@@ -4026,7 +4010,7 @@
     {
       "sigla": "RR",
       "nome": "Roraima",
-      "cidades": [
+      "politicos": [
         "Alto Alegre",
         "Amajari",
         "Boa Vista",
@@ -4047,7 +4031,7 @@
     {
       "sigla": "RS",
       "nome": "Rio Grande do Sul",
-      "cidades": [
+      "politicos": [
         "Aceguá",
         "Água Santa",
         "Agudo",
@@ -4549,7 +4533,7 @@
     {
       "sigla": "SC",
       "nome": "Santa Catarina",
-      "cidades": [
+      "politicos": [
         "Abdon Batista",
         "Abelardo Luz",
         "Agrolândia",
@@ -4848,7 +4832,7 @@
     {
       "sigla": "SE",
       "nome": "Sergipe",
-      "cidades": [
+      "politicos": [
         "Amparo de São Francisco",
         "Aquidabã",
         "Aracaju",
@@ -4929,7 +4913,7 @@
     {
       "sigla": "SP",
       "nome": "São Paulo",
-      "cidades": [
+      "politicos": [
         "Adamantina",
         "Adolfo",
         "Aguaí",
@@ -5580,7 +5564,7 @@
     {
       "sigla": "TO",
       "nome": "Tocantins",
-      "cidades": [
+      "politicos": [
         "Abreulândia",
         "Aguiarnópolis",
         "Aliança do Tocantins",
