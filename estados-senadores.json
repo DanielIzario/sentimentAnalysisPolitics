@@ -1,9 +1,9 @@
 {
-  "estados": [
+  "estadossenadores": [
     {
-      "sigla": "AC",
-      "nome": "Acre",
-      "politicos": [
+      "siglasenador": "AC",
+      "nomesenador": "Acre",
+      "senadores": [
 		"",
 		"JORGE VIANA",
 		"MÁRCIO BITTAR",
@@ -14,9 +14,9 @@
       ]
     },
     {
-      "sigla": "AL",
-      "nome": "Alagoas",
-      "politicos": [
+      "siglasenador": "AL",
+      "nomesenador": "Alagoas",
+      "senadores": [
 	  	"",
 		"BENEDITO DE LIRA",
 		"FLÁVIA MELO",
@@ -30,9 +30,9 @@
       ]
     },
     {
-      "sigla": "AM",
-      "nome": "Amazonas",
-      "politicos": [
+      "siglasenador": "AM",
+      "nomesenador": "Amazonas",
+      "senadores": [
 	  	"",
 		"ALFREDO NASCIMENTO",
 		"CHICO PRETO",
@@ -46,9 +46,9 @@
       ]
     },
     {
-      "sigla": "AP",
-      "nome": "Amapá",
-      "politicos": [
+      "siglasenador": "AP",
+      "nomesenador": "Amapá",
+      "senadores": [
 	  	"",
 		"BALA ROCHA",
 		"DR. DAVI",
@@ -65,9 +65,9 @@
       ]
     },
     {
-      "sigla": "BA",
-      "nome": "Bahia",
-      "politicos": [
+      "siglasenador": "BA",
+      "nomesenador": "Bahia",
+      "senadores": [
 	  	"",
 		"ADROALDO DOS SANTOS",
 		"ANGELO CORONEL",
@@ -83,9 +83,9 @@
       ]
     },
     {
-      "sigla": "CE",
-      "nome": "Ceará",
-      "politicos": [
+      "siglasenador": "CE",
+      "nomesenador": "Ceará",
+      "senadores": [
 	  	"",
 		"ALEXANDRE BARROSO",
 		"ANNA KARINA",
@@ -103,9 +103,9 @@
       ]
     },
     {
-      "sigla": "DF",
-      "nome": "Distrito Federal",
-      "politicos": [
+      "siglasenador": "DF",
+      "nomesenador": "Distrito Federal",
+      "senadores": [
 	  	"",
 		"BRIGADEIRO ATILA MAIA",
 		"CHICO LEITE",
@@ -130,9 +130,9 @@
       ]
     },
     {
-      "sigla": "ES",
-      "nome": "Espírito Santo",
-      "politicos": [
+      "siglasenador": "ES",
+      "nomesenador": "Espírito Santo",
+      "senadores": [
 	  	"",
 		"CÉLIA TAVARES",
 		"FABIANO CONTARATO",
@@ -148,9 +148,9 @@
       ]
     },
     {
-      "sigla": "GO",
-      "nome": "Goiás",
-      "politicos": [
+      "siglasenador": "GO",
+      "nomesenador": "Goiás",
+      "senadores": [
 	  	"",
 		"AGENOR",
 		"FABRÍCIO ROSA",
@@ -167,9 +167,9 @@
       ]
     },
     {
-      "sigla": "MA",
-      "nome": "Maranhão",
-      "politicos": [
+      "siglasenador": "MA",
+      "nomesenador": "Maranhão",
+      "senadores": [
 	  	"",
 		"ALEXANDRE ALMEIDA",
 		"EDISON LOBÃO",
@@ -185,9 +185,9 @@
       ]
     },
     {
-      "sigla": "MG",
-      "nome": "Minas Gerais",
-      "politicos": [
+      "siglasenador": "MG",
+      "nomesenador": "Minas Gerais",
+      "senadores": [
 	  	"",
 		"ANA ALVES",
 		"BISPO DAMASCENO",
@@ -207,9 +207,9 @@
       ]
     },
     {
-      "sigla": "MS",
-      "nome": "Mato Grosso do Sul",
-      "politicos": [
+      "siglasenador": "MS",
+      "nomesenador": "Mato Grosso do Sul",
+      "senadores": [
 	  	"",
 		"ANISIO GUATO",
 		"BETINI",
@@ -229,9 +229,9 @@
       ]
     },
     {
-      "sigla": "MT",
-      "nome": "Mato Grosso",
-      "politicos": [
+      "siglasenador": "MT",
+      "nomesenador": "Mato Grosso",
+      "senadores": [
 	  	"",
 		"ADILTON SACHETTI",
 		"ALADIR",
@@ -247,9 +247,9 @@
       ]
     },
     {
-      "sigla": "PA",
-      "nome": "Pará",
-      "politicos": [
+      "siglasenador": "PA",
+      "nomesenador": "Pará",
+      "senadores": [
 	  	"",
 		"ANIVALDO VALE",
 		"BENEDITA DO AMARAL",
@@ -272,9 +272,9 @@
       ]
     },
     {
-      "sigla": "PB",
-      "nome": "Paraíba",
-      "politicos": [
+      "siglasenador": "PB",
+      "nomesenador": "Paraíba",
+      "senadores": [
 	  	"",
 		"CÁSSIO CUNHA LIMA",
 		"DANIELLA RIBEIRO",
@@ -286,9 +286,9 @@
       ]
     },
     {
-      "sigla": "PE",
-      "nome": "Pernambuco",
-      "politicos": [
+      "siglasenador": "PE",
+      "nomesenador": "Pernambuco",
+      "senadores": [
 	  	"",
 		"ADRIANA ROCHA",
 		"ALBANISE",
@@ -305,9 +305,9 @@
       ]
     },
     {
-      "sigla": "PI",
-      "nome": "Piauí",
-      "politicos": [
+      "siglasenador": "PI",
+      "nomesenador": "Piauí",
+      "senadores": [
 	  	"",
 		"ALBETIZA",
 		"ANTÔNIO JOSÉ LIRA",
@@ -330,9 +330,9 @@
       ]
     },
     {
-      "sigla": "PR",
-      "nome": "Paraná",
-      "politicos": [
+      "siglasenador": "PR",
+      "nomesenador": "Paraná",
+      "senadores": [
 	  	"",
 		"ALEX CANZIANI",
 		"BETO RICHA",
@@ -348,20 +348,20 @@
 		"RODRIGO REIS",
 		"RODRIGO TOMAZINI",
 		"ROSELAINE BARROSO FERREIRA",
-		"ROSELAINE BARROSO FERREIRA",
 		"ZÉ BONI"
       ]
     },
     {
-      "sigla": "RJ",
-      "nome": "Rio de Janeiro",
-      "politicos": [
+      "siglasenador": "RJ",
+      "nomesenador": "Rio de Janeiro",
+      "senadores": [
 	  	"",
 		"AROLDE DE OLIVEIRA",
 		"ASPASIA",
 		"CESAR MAIA",
 		"CHICO ALENCAR",
 		"CYRO CARGIA",
+		"EDUARDO LOPES",
 		"FERNANDO FAGUNDES RIBEIRO",
 		"FLÁVIO BOLSONARO",
 		"GABRIELLE BURCCI",
@@ -372,14 +372,13 @@
 		"MIRO TEIXEIRA",
 		"PASTOR EVERALDO",
 		"SAMANTHA GUEDES",
-		"SENADOR EDUARDO LOPES",
 		"WALTER CRISTIE SILVA AGUIAR"
       ]
     },
     {
-      "sigla": "RN",
-      "nome": "Rio Grande do Norte",
-      "politicos": [
+      "siglasenador": "RN",
+      "nomesenador": "Rio Grande do Norte",
+      "senadores": [
 	  	"",
 		"ALEXANDRE MOTTA",
 		"ANA CELIA",
@@ -399,9 +398,9 @@
       ]
     },
     {
-      "sigla": "RO",
-      "nome": "Rondônia",
-      "politicos": [
+      "siglasenador": "RO",
+      "nomesenador": "Rondônia",
+      "senadores": [
 	  	"",
 		"ALUÍZIO VIDAL",
 		"BOSCO DA FEDERAL",
@@ -422,9 +421,9 @@
       ]
     },
     {
-      "sigla": "RS",
-      "nome": "Rio Grande do Sul",
-      "politicos": [
+      "siglasenador": "RS",
+      "nomesenador": "Rio Grande do Sul",
+      "senadores": [
 	  	"",
 		"ABIGAIL PEREIRA",
 		"ANA VARELA",
@@ -444,9 +443,9 @@
       ]
     },
     {
-      "sigla": "SC",
-      "nome": "Santa Catarina",
-      "politicos": [
+      "siglasenador": "SC",
+      "nomesenador": "Santa Catarina",
+      "senadores": [
 	  	"",
 		"ANDREÁ LUCIANO CARVALHO",
 		"DIEGO MEZZOGIORNO",
@@ -465,9 +464,9 @@
       ]
     },
     {
-      "sigla": "SE",
-      "nome": "Sergipe",
-      "politicos": [
+      "siglasenador": "SE",
+      "nomesenador": "Sergipe",
+      "senadores": [
 	  	"",
 		"ADELSON ALVES",
 		"ANDRÉ MOURA",
@@ -486,9 +485,9 @@
       ]
     },
     {
-      "sigla": "SP",
-      "nome": "São Paulo",
-      "politicos": [
+      "siglasenador": "SP",
+      "nomesenador": "São Paulo",
+      "senadores": [
 	  	"",
 		"ANTONIO NETO",
 		"CIDINHA",
@@ -513,9 +512,9 @@
       ]
     },
     {
-      "sigla": "TO",
-      "nome": "Tocantins",
-      "politicos": [
+      "siglasenador": "TO",
+      "nomesenador": "Tocantins",
+      "senadores": [
 	  	"",
 		"ANTÔNIO JORGE",
 		"ATAÍDES OLIVEIRA",
