@@ -1,0 +1,533 @@
+{
+  "estados1": [
+    {
+      "sigla": "AC",
+      "nome": "Acre",
+      "governadores": [
+		"",
+		"JORGE VIANA",
+		"MÁRCIO BITTAR",
+		"MINORU KINPARA",
+		"NEY AMORIM",
+		"PEDRAZZA",
+		"PETECÃO"
+      ]
+    },
+    {
+      "sigla": "AL",
+      "nome": "Alagoas",
+      "governadores": [
+	  	"",
+		"BENEDITO DE LIRA",
+		"FLÁVIA MELO",
+		"FLAVIO MORENO",
+		"MAURICIO QUINTELLA",
+		"OSVALDO MACIEL",
+		"PROF. CICERO ALBUQUERQUE",
+		"RENAN",
+		"RODRIGO CUNHA",
+		"SERGIO CABRAL"
+      ]
+    },
+    {
+      "sigla": "AM",
+      "nome": "Amazonas",
+      "governadores": [
+	  	"",
+		"ALFREDO NASCIMENTO",
+		"CHICO PRETO",
+		"EDUARDO BRAGA",
+		"HISSA ABRAHÃO",
+		"LUIZ CASTRO",
+		"LUIZ FERNANDO SANTOS",
+		"PLINIO VALERIO",
+		"RONDINELY FONSECA",
+		"VANESSA"
+      ]
+    },
+    {
+      "sigla": "AP",
+      "nome": "Amapá",
+      "governadores": [
+	  	"",
+		"BALA ROCHA",
+		"DR. DAVI",
+		"DR RICARDO SANTOS",
+		"FÁTIMA PELAES",
+		"GILVAM BORGES",
+		"GUARACY",
+		"JANETE CAPIBERIBE",
+		"JOAQUINA LINO",
+		"JORGE AMANAJAS",
+		"LUCAS BARRETO",
+		"RANDOLFE",
+		"WAGNER GOMES"
+      ]
+    },
+    {
+      "sigla": "BA",
+      "nome": "Bahia",
+      "governadores": [
+	  	"",
+		"ADROALDO DOS SANTOS",
+		"ANGELO CORONEL",
+		"CELSINHO COTRIM",
+		"COMANDANTE RANGEL",
+		"FABIO NOGUEIRA",
+		"FRANCISCO JOSÉ",
+		"IRMÃO LÁZARO",
+		"JAQUES WAGNER",
+		"JORGE VIANNA",
+		"JUTAHY MAGALHAES JUNIOR",
+		"MARCOS MAURICIO"
+      ]
+    },
+    {
+      "sigla": "CE",
+      "nome": "Ceará",
+      "governadores": [
+	  	"",
+		"ALEXANDRE BARROSO",
+		"ANNA KARINA",
+		"BARDAWIL",
+		"CID GOMES",
+		"DRA. MAYRA",
+		"DR MÁRCIO PINHEIRO",
+		"EDUARDO GIRÃO",
+		"EUNÍCIO",
+		"JOÃO SARAIVA",
+		"MAGELA",
+		"PASTOR PEDRO RIBEIRO",
+		"PASTOR SIMÕES",
+		"ROBERT BURNS"
+      ]
+    },
+    {
+      "sigla": "DF",
+      "nome": "Distrito Federal",
+      "governadores": [
+	  	"",
+		"BRIGADEIRO ATILA MAIA",
+		"CHICO LEITE",
+		"CHICO SANT'ANNA",
+		"CRISTOVAM BUARQUE",
+		"DANILO MATOSO",
+		"FADI FARAJ",
+		"FERNANDO MARQUES",
+		"HELIO QUEIROZ",
+		"IZALCI",
+		"JOÃO PEDRO FERRAZ",
+		"JUIZ EVERARDO RIBEIRO",
+		"LEILA DO VÔLEI",
+		"MARCELO NEVES",
+		"MARIVALDO PEREIRA",
+		"PAULO ROQUE ",
+		"PROFESSORA AMÁBILE",
+		"ROBSON",
+		"ROMILDA TEIXEIRA",
+		"WALISSON NASCIMENTO",
+		"WASNY"
+      ]
+    },
+    {
+      "sigla": "ES",
+      "nome": "Espírito Santo",
+      "governadores": [
+	  	"",
+		"CÉLIA TAVARES",
+		"FABIANO CONTARATO",
+		"HELDER CARNIELLI",
+		"LIU KATRINE",
+		"MAGNO MALTA",
+		"MARCOS DO VAL",
+		"MAURO RIBEIRO",
+		"RICARDO FERRAÇO",
+		"ROGERIO BERNARDO",
+		"SUBTENENTE ASSIS",
+		"ULISSES PINCELLI"
+      ]
+    },
+    {
+      "sigla": "GO",
+      "nome": "Goiás",
+      "governadores": [
+	  	"",
+		"AGENOR",
+		"FABRÍCIO ROSA",
+		"JORGE KAJURU",
+		"LÚCIA VÂNIA",
+		"LUIS CÉSAR BUENO",
+		"MARCONI PERILLO",
+		"PROFESSORA GELI",
+		"PROFESSOR ALESSANDRO AQUINO",
+		"PROFESSORA MAGDA BORGES",
+		"SANTANA PIRES",
+		"VANDERLAN",
+		"WILDER MORAIS"
+      ]
+    },
+    {
+      "sigla": "MA",
+      "nome": "Maranhão",
+      "governadores": [
+	  	"",
+		"ALEXANDRE ALMEIDA",
+		"EDISON LOBÃO",
+		"ELIZIANE GAMA",
+		"IÊGO BRUNNO",
+		"PRETA LU",
+		"SAMOEL DE ITAPECURU",
+		"SARNEY FILHO",
+		"SAULO ARCANGELI",
+		"SAULO PINTO",
+		"WEVERTON",
+		"ZÉ REINALDO"
+      ]
+    },
+    {
+      "sigla": "MG",
+      "nome": "Minas Gerais",
+      "governadores": [
+	  	"",
+		"ANA ALVES",
+		"BISPO DAMASCENO",
+		"CORONEL LACERDA",
+		"DILMA ROUSSEFF",
+		"DINIS PINHEIRO",
+		"EDSON ANDRE",
+		"FÁBIO CHEREM",
+		"JORNALISTA CARLOS VIANA",
+		"KAKA MENEZES",
+		"MIGUEL CORREA",
+		"PROFESSORA DUDA SALABERT",
+		"PROFESSOR TULIO LOPES",
+		"RODRIGO PACHECO",
+		"RODRIGO PAIVA",
+		"VANESSA PORTUGAL BARBOSA"
+      ]
+    },
+    {
+      "sigla": "MS",
+      "nome": "Mato Grosso do Sul",
+      "governadores": [
+	  	"",
+		"ANISIO GUATO",
+		"BETINI",
+		"BETO FIGUEIRÓ",
+		"CESAR NICOLATTI",
+		"DELCIDIO AMARAL",
+		"GILMAR DA CRUZ",
+		"MARCELO MIGLIOLI",
+		"MARIO  FONSECA",
+		"MOKA",
+		"NELSINHO TRAD",
+		"PEDRO CHAVES",
+		"PROMOTOR SERGIO HARFOUCHE",
+		"SORAYA THRONICKE",
+		"THIAGO FREITAS",
+		"ZECA DO PT"
+      ]
+    },
+    {
+      "sigla": "MT",
+      "nome": "Mato Grosso",
+      "governadores": [
+	  	"",
+		"ADILTON SACHETTI",
+		"ALADIR",
+		"DR WALDIR CALDAS",
+		"FÁVARO",
+		"GILBERTO LOPES FILHO",
+		"JAYME CAMPOS",
+		"JUIZA SELMA ARRUDA",
+		"NILSON LEITÃO",
+		"PROCURADOR MAURO",
+		"PROFESSORA MARIA LUCIA",
+		"SEBASTIÃO CARLOS"
+      ]
+    },
+    {
+      "sigla": "PA",
+      "nome": "Pará",
+      "governadores": [
+	  	"",
+		"ANIVALDO VALE",
+		"BENEDITA DO AMARAL",
+		"BOGO",
+		"CORONEL OSMAR NASCIMENTO",
+		"FLEXA RIBEIRO",
+		"FRANCISCO ALVES",
+		"IBANÊS",
+		"JADER BARBALHO",
+		"JARBAS VASCONCELOS",
+		"MÁRIO COUTO",
+		"PRADO SÁ",
+		"PROFESSOR GERSON DOURAO",
+		"SIDNEY ROSA",
+		"URSULA VIDAL",
+		"WLAD",
+		"XAROPINHO DO POVO",
+		"ZÉ GERALDO",
+		"ZEQUINHA MARINHO"
+      ]
+    },
+    {
+      "sigla": "PB",
+      "nome": "Paraíba",
+      "governadores": [
+	  	"",
+		"CÁSSIO CUNHA LIMA",
+		"DANIELLA RIBEIRO",
+		"LUIZ COUTO",
+		"NIVALDO MANGUEIRA",
+		"PROFESSOR NELSON JÚNIOR",
+		"ROBERTO PAULINO",
+		"VENEZIANO"
+      ]
+    },
+    {
+      "sigla": "PE",
+      "nome": "Pernambuco",
+      "governadores": [
+	  	"",
+		"ADRIANA ROCHA",
+		"ALBANISE",
+		"ALEX LIMA ROLA",
+		"BRUNO ARAUJO",
+		"EUGÊNIA",
+		"HELIO CABRAL",
+		"HUMBERTO COSTA",
+		"JARBAS",
+		"LIDIA BRUNES",
+		"MENDONCA FILHO",
+		"PASTOR JAIRINHO",
+		"SILVIO COSTA"
+      ]
+    },
+    {
+      "sigla": "PI",
+      "nome": "Piauí",
+      "governadores": [
+	  	"",
+		"ALBETIZA",
+		"ANTÔNIO JOSÉ LIRA",
+		"CIRO NOGUEIRA",
+		"DR. MARCOS",
+		"ELIZEU AGUIAR",
+		"FLÁVIA BARBOSA",
+		"FRANK AGUIAR",
+		"GENIVAL OLIVEIRA",
+		"GERVASIO SANTOS",
+		"JESUS RODRIGUES",
+		"JOAQUIM SARAIVA",
+		"LAFAYETTE ANDRADE",
+		"MARCELO CASTRO",
+		"PAULO HENRIQUE",
+		"PROFESSOR FAUSTO RIPARDO",
+		"QUEM QUEM",
+		"ROBERT RIOS",
+		"WILSON MARTINS"
+      ]
+    },
+    {
+      "sigla": "PR",
+      "nome": "Paraná",
+      "governadores": [
+	  	"",
+		"ALEX CANZIANI",
+		"BETO RICHA",
+		"COMPADRE LUIZ ADÃO",
+		"FLAVIO ARNS",
+		"GILSON MEZAROBBA",
+		"JACQUE PARMIGIANI",
+		"MIRIAN GONÇALVES",
+		"NELTON",
+		"PROFESSOR ORIOVISTO GUIMARAES",
+		"PROFESSOR WILSON PICLER",
+		"REQUIÃO",
+		"RODRIGO REIS",
+		"RODRIGO TOMAZINI",
+		"ROSELAINE BARROSO FERREIRA",
+		"ROSELAINE BARROSO FERREIRA",
+		"ZÉ BONI"
+      ]
+    },
+    {
+      "sigla": "RJ",
+      "nome": "Rio de Janeiro",
+      "governadores": [
+	  	"",
+		"AROLDE DE OLIVEIRA",
+		"ASPASIA",
+		"CESAR MAIA",
+		"CHICO ALENCAR",
+		"CYRO CARGIA",
+		"FERNANDO FAGUNDES RIBEIRO",
+		"FLÁVIO BOLSONARO",
+		"GABRIELLE BURCCI",
+		"JOSE BONIFACIO",
+		"LINDBERGH",
+		"MARTA BARÇANTE",
+		"MATTOS NASCIMENTO",
+		"MIRO TEIXEIRA",
+		"PASTOR EVERALDO",
+		"SAMANTHA GUEDES",
+		"SENADOR EDUARDO LOPES",
+		"WALTER CRISTIE SILVA AGUIAR"
+      ]
+    },
+    {
+      "sigla": "RN",
+      "nome": "Rio Grande do Norte",
+      "governadores": [
+	  	"",
+		"ALEXANDRE MOTTA",
+		"ANA CELIA",
+		"CAPITÃO STYVENSON",
+		"DR JOANILSON",
+		"DRª ZENAIDE MAIA",
+		"GARIBALDI FILHO",
+		"GERALDO MELO",
+		"JÁCOME",
+		"JOÃO MORAIS",
+		"JURANDIR MARINHO",
+		"LEVI COSTA",
+		"MAGNÓLIA",
+		"NAPOLEÃO",
+		"PROFESSOR LAILSON",
+		"TELMA GURGEL"
+      ]
+    },
+    {
+      "sigla": "RO",
+      "nome": "Rondônia",
+      "governadores": [
+	  	"",
+		"ALUÍZIO VIDAL",
+		"BOSCO DA FEDERAL",
+		"CARLOS MAGNO",
+		"CONFUCIO MOURA",
+		"DR. JOSENIR DETTONI",
+		"FABRICIO JURADO",
+		"FÁTIMA CLEIDE",
+		"JAIME BAGATTOLI",
+		"JESUALDO PIRES",
+		"MARCOS ROGÉRIO",
+		"PASTOR EDÉSIO FERNANDES",
+		"PAULO CADILLAC",
+		"TED WILSON",
+		"TERRINHA",
+		"TITO PAZ",
+		"VALDIR RAUPP"
+      ]
+    },
+    {
+      "sigla": "RS",
+      "nome": "Rio Grande do Sul",
+      "governadores": [
+	  	"",
+		"ABIGAIL PEREIRA",
+		"ANA VARELA",
+		"BETO ALBUQUERQUE",
+		"CARMEN FLORES",
+		"CLEBER SOARES",
+		"DRA. SANDRA WEBER",
+		"JOÃO AUGUSTO",
+		"JOSÉ FOGAÇA",
+		"LUIS CARLOS HEINZE",
+		"LUIZ DELVAIR",
+		"MACHADO",
+		"MARIO BERND",
+		"MARLI SCHAULE",
+		"PAULO PAIM",
+		"ROMER GUEX"
+      ]
+    },
+    {
+      "sigla": "SC",
+      "nome": "Santa Catarina",
+      "governadores": [
+	  	"",
+		"ANDREÁ LUCIANO CARVALHO",
+		"DIEGO MEZZOGIORNO",
+		"ESPERIDIÃO AMIN",
+		"IDELI SALVATTI",
+		"JORGINHO MELLO",
+		"LÉDIO ROSA",
+		"LUCAS ESMERALDINO",
+		"MIRIAM PROCHNOW",
+		"PAULO BAUER",
+		"PROFESSOR ANTONIO",
+		"PROFESSOR PEDRO CABRAL",
+		"RAIMUNDO COLOMBO",
+		"RICARDO LAUTERT",
+		"ROBERTO SALUM"
+      ]
+    },
+    {
+      "sigla": "SE",
+      "nome": "Sergipe",
+      "governadores": [
+	  	"",
+		"ADELSON ALVES",
+		"ANDRÉ MOURA",
+		"BETINHO",
+		"CADU SILVA",
+		"CLARCKSON MESSIAS",
+		"DELEGADO ALESSANDRO VIEIRA",
+		"HENRI CLAY",
+		"JACKSON BARRETO",
+		"PASTOR HELENO",
+		"PROFESSORA SONIA MEIRE",
+		"PROFESSOR JOSSIMÁRIO MICK",
+		"REYNALDO NUNES",
+		"ROGERIO CARVALHO SANTOS",
+		"VALADARES"
+      ]
+    },
+    {
+      "sigla": "SP",
+      "nome": "São Paulo",
+      "governadores": [
+	  	"",
+		"ANTONIO NETO",
+		"CIDINHA",
+		"DIOGO DA LUZ",
+		"DRA. ELIANA FERREIRA",
+		"EDUARDO SUPLICY",
+		"EDUCADOR DANIEL CARA",
+		"JAIR ANDREONI",
+		"JILMAR TATTO",
+		"KALED",
+		"MAJOR OLIMPIO",
+		"MANCHA",
+		"MARA GABRILLI",
+		"MARCELO BARBIERI",
+		"MARIO COVAS NETO",
+		"MAURREN MAGGI",
+		"MOIRA LÁZARO MANDATO COLETIVO",
+		"NIVALDO ORLANDI",
+		"PEDRO HENRIQUE DE CRISTO",
+		"PROFESSORA SILVIA FERRARO",
+		"TRIPOLI"
+      ]
+    },
+    {
+      "sigla": "TO",
+      "nome": "Tocantins",
+      "governadores": [
+	  	"",
+		"ANTÔNIO JORGE",
+		"ATAÍDES OLIVEIRA",
+		"CÉSAR HALUM",
+		"EDUARDO GOMES",
+		"FARLEI O FEDERAL",
+		"IRAJÁ",
+		"MELK AIRES",
+		"PAULO MOURÃO",
+		"SIQUEIRA CAMPOS",
+		"VICENTINHO"
+      ]
+    }
+  ]
+}
