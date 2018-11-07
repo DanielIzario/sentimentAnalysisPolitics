@@ -1,8 +1,8 @@
 {
-  "estados1": [
+  "estadosgovernadores": [
     {
-      "sigla1": "AC",
-      "nome1": "Acre",
+      "siglagovernador": "AC",
+      "nomegovernador": "Acre",
       "governadores": [
 		"",
 		"JORGE VIANA",
@@ -14,8 +14,8 @@
       ]
     },
     {
-      "sigla1": "AL",
-      "nome1": "Alagoas",
+      "siglagovernador": "AL",
+      "nomegovernador": "Alagoas",
       "governadores": [
 	  	"",
 		"BENEDITO DE LIRA",
@@ -30,8 +30,8 @@
       ]
     },
     {
-      "sigla1": "AM",
-      "nome1": "Amazonas",
+      "siglagovernador": "AM",
+      "nomegovernador": "Amazonas",
       "governadores": [
 	  	"",
 		"ALFREDO NASCIMENTO",
@@ -46,8 +46,8 @@
       ]
     },
     {
-      "sigla1": "AP",
-      "nome1": "Amapá",
+      "siglagovernador": "AP",
+      "nomegovernador": "Amapá",
       "governadores": [
 	  	"",
 		"BALA ROCHA",
@@ -65,8 +65,8 @@
       ]
     },
     {
-      "sigla1": "BA",
-      "nome1": "Bahia",
+      "siglagovernador": "BA",
+      "nomegovernador": "Bahia",
       "governadores": [
 	  	"",
 		"ADROALDO DOS SANTOS",
@@ -83,8 +83,8 @@
       ]
     },
     {
-      "sigla1": "CE",
-      "nome1": "Ceará",
+      "siglagovernador": "CE",
+      "nomegovernador": "Ceará",
       "governadores": [
 	  	"",
 		"ALEXANDRE BARROSO",
@@ -103,8 +103,8 @@
       ]
     },
     {
-      "sigla1": "DF",
-      "nome1": "Distrito Federal",
+      "siglagovernador": "DF",
+      "nomegovernador": "Distrito Federal",
       "governadores": [
 	  	"",
 		"BRIGADEIRO ATILA MAIA",
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "sigla1": "ES",
-      "nome1": "Espírito Santo",
+      "siglagovernador": "ES",
+      "nomegovernador": "Espírito Santo",
       "governadores": [
 	  	"",
 		"CÉLIA TAVARES",
@@ -148,8 +148,8 @@
       ]
     },
     {
-      "sigla1": "GO",
-      "nome1": "Goiás",
+      "siglagovernador": "GO",
+      "nomegovernador": "Goiás",
       "governadores": [
 	  	"",
 		"AGENOR",
@@ -167,8 +167,8 @@
       ]
     },
     {
-      "sigla1": "MA",
-      "nome1": "Maranhão",
+      "siglagovernador": "MA",
+      "nomegovernador": "Maranhão",
       "governadores": [
 	  	"",
 		"ALEXANDRE ALMEIDA",
@@ -185,8 +185,8 @@
       ]
     },
     {
-      "sigla1": "MG",
-      "nome1": "Minas Gerais",
+      "siglagovernador": "MG",
+      "nomegovernador": "Minas Gerais",
       "governadores": [
 	  	"",
 		"ANA ALVES",
@@ -207,8 +207,8 @@
       ]
     },
     {
-      "sigla1": "MS",
-      "nome1": "Mato Grosso do Sul",
+      "siglagovernador": "MS",
+      "nomegovernador": "Mato Grosso do Sul",
       "governadores": [
 	  	"",
 		"ANISIO GUATO",
@@ -229,8 +229,8 @@
       ]
     },
     {
-      "sigla1": "MT",
-      "nome1": "Mato Grosso",
+      "siglagovernador": "MT",
+      "nomegovernador": "Mato Grosso",
       "governadores": [
 	  	"",
 		"ADILTON SACHETTI",
@@ -247,8 +247,8 @@
       ]
     },
     {
-      "sigla1": "PA",
-      "nome1": "Pará",
+      "siglagovernador": "PA",
+      "nomegovernador": "Pará",
       "governadores": [
 	  	"",
 		"ANIVALDO VALE",
@@ -272,8 +272,8 @@
       ]
     },
     {
-      "sigla1": "PB",
-      "nome1": "Paraíba",
+      "siglagovernador": "PB",
+      "nomegovernador": "Paraíba",
       "governadores": [
 	  	"",
 		"CÁSSIO CUNHA LIMA",
@@ -286,8 +286,8 @@
       ]
     },
     {
-      "sigla1": "PE",
-      "nome1": "Pernambuco",
+      "siglagovernador": "PE",
+      "nomegovernador": "Pernambuco",
       "governadores": [
 	  	"",
 		"ADRIANA ROCHA",
@@ -305,8 +305,8 @@
       ]
     },
     {
-      "sigla1": "PI",
-      "nome1": "Piauí",
+      "siglagovernador": "PI",
+      "nomegovernador": "Piauí",
       "governadores": [
 	  	"",
 		"ALBETIZA",
@@ -330,8 +330,8 @@
       ]
     },
     {
-      "sigla1": "PR",
-      "nome1": "Paraná",
+      "siglagovernador": "PR",
+      "nomegovernador": "Paraná",
       "governadores": [
 	  	"",
 		"ALEX CANZIANI",
@@ -353,8 +353,8 @@
       ]
     },
     {
-      "sigla1": "RJ",
-      "nome1": "Rio de Janeiro",
+      "siglagovernador": "RJ",
+      "nomegovernador": "Rio de Janeiro",
       "governadores": [
 	  	"",
 		"AROLDE DE OLIVEIRA",
@@ -377,8 +377,8 @@
       ]
     },
     {
-      "sigla1": "RN",
-      "nome1": "Rio Grande do Norte",
+      "siglagovernador": "RN",
+      "nomegovernador": "Rio Grande do Norte",
       "governadores": [
 	  	"",
 		"ALEXANDRE MOTTA",
@@ -399,8 +399,8 @@
       ]
     },
     {
-      "sigla1": "RO",
-      "nome1": "Rondônia",
+      "siglagovernador": "RO",
+      "nomegovernador": "Rondônia",
       "governadores": [
 	  	"",
 		"ALUÍZIO VIDAL",
@@ -422,8 +422,8 @@
       ]
     },
     {
-      "sigla1": "RS",
-      "nome1": "Rio Grande do Sul",
+      "siglagovernador": "RS",
+      "nomegovernador": "Rio Grande do Sul",
       "governadores": [
 	  	"",
 		"ABIGAIL PEREIRA",
@@ -444,8 +444,8 @@
       ]
     },
     {
-      "sigla1": "SC",
-      "nome1": "Santa Catarina",
+      "siglagovernador": "SC",
+      "nomegovernador": "Santa Catarina",
       "governadores": [
 	  	"",
 		"ANDREÁ LUCIANO CARVALHO",
@@ -465,8 +465,8 @@
       ]
     },
     {
-      "sigla1": "SE",
-      "nome1": "Sergipe",
+      "siglagovernador": "SE",
+      "nomegovernador": "Sergipe",
       "governadores": [
 	  	"",
 		"ADELSON ALVES",
@@ -486,8 +486,8 @@
       ]
     },
     {
-      "sigla1": "SP",
-      "nome1": "São Paulo",
+      "siglagovernador": "SP",
+      "nomegovernador": "São Paulo",
       "governadores": [
 	  	"",
 		"ANTONIO NETO",
@@ -513,8 +513,8 @@
       ]
     },
     {
-      "sigla1": "TO",
-      "nome1": "Tocantins",
+      "siglagovernador": "TO",
+      "nomegovernador": "Tocantins",
       "governadores": [
 	  	"",
 		"ANTÔNIO JORGE",
