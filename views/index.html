@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>sentimentAnalysisPolitics</title>
+		<link rel='stylesheet' href='/stylesheets/style.css' />
+	</head>
+
+	<body>
+		<center>
+			<h1><b>Análise de Sentimentos (Twitter)</b></h1>
+			<h1><b>Eleições - 2018</b></h1>
+		</center>
+		
+		<hr/>
+		<form>
+			<table>
+				<tr> 
+					<td><label><b>Cargo</b></label></td>
+					<td>
+						<select id="options" onchange="optionCheck()" name='cargos' style="width:200px;">
+							<option value="Vazio"></option>
+							<option value="Governador">Governador</option>
+							<option value="Presidente">Presidente</option>
+							<option value="Senador">Senador</option>	
+						</select>
+					</td>
+				</tr>
+			</table>
+		</form>					
+		<div>
+			<div id="hiddenDivVazio" style="visibility:visible;"></div>
+			<div id="hiddenDivGovernador" style="border-width:1px;border-style:solid;visibility:hidden;">			
+				<form>
+					<table>
+						<tr> 
+							<td><label><b>Estado</b></label></td>
+							<td>
+								<select name="ufgovernador" id="ufgovernador" style="width:350px;"><option value=""></option></select>
+							</td>
+						</tr>
+						<tr>						
+							<td><label><b>Nome</b></label></td>
+							<td>
+								<select id="idpolitica" name="governador" style="display:none; width:350px;" onchange="troca(this.value)"></select>
+							</td>
+							<script type="text/javascript">	
+								var jsonn;
+								ajaxx = new XMLHttpRequest();		
+								ajaxx.open('GET', 'https://raw.githubusercontent.com/DanielIzario/sentimentAnalysis/master/estados-governadores.json', true);
+								ajaxx.send();
+								
+								ajaxx.onreadystatechange = function() {
+									if(ajaxx.readyState == 4 && ajaxx.status == 200) {
+										jsonn = JSON.parse(ajaxx.responseText);
+										for(i in jsonn.estadosgovernadores){
+											var estadoo = jsonn.estadosgovernadores[i];
+											var optionn = document.createElement("option");
+											optionn.text = estadoo.nomegovernador;
+											optionn.value = estadoo.siglagovernador;
+											var selectUff = document.getElementById("ufgovernador");
+											selectUff.appendChild(optionn);
+										}
+									}
+								}
+
+								document.getElementById('ufgovernador').addEventListener('change', function() {	
+									var ufSelecionadoo = this.value;
+									var selectpoliticoss = document.getElementById("idpolitica");
+									
+									while (selectpoliticoss.firstChild) {
+										selectpoliticoss.removeChild(selectpoliticoss.firstChild);
+									}
+									
+									for(i in jsonn.estadosgovernadores){
+										var estadoo = jsonn.estadosgovernadores[i];			
+										if(estadoo.siglagovernador == ufSelecionadoo){
+										
+											for(x in estadoo.governadores){
+												var governador = estadoo.governadores[x];
+												var optionn = document.createElement("option");
+												optionn.text = governador;
+												optionn.value = estadoo.governadores[x];
+												selectpoliticoss.appendChild(optionn);
+												selectpoliticoss.style.display = null;
+											}
+											return false;
+										}
+									}
+								});
+							</script>
+						</tr>						
+					</table>
+				</form>
+			</div>
+			<div id="hiddenDivPresidente" style="border-width:1px;border-style:solid;visibility:hidden;">
+				<form>
+					<table>
+						<tr> 
+							<td><label><b>Nome</b></label></td>
+							<td>
+								<select id="idpolitica1" name='nomespresidente' style="width:350px;" onchange="troca(this.value)">
+									<option value='--'></option>
+									<option value='ALVARO DIAS'>ALVARO DIAS</option> 
+									<option value='CABO DACIOLO'>CABO DACIOLO</option> 
+									<option value='CIRO GOMES'>CIRO GOMES</option>
+									<option value='EYMAEL'>EYMAEL</option>
+									<option value='FERNANDO HADDAD'>FERNANDO HADDAD</option> 
+									<option value='GERALDO ALCKMIN'>GERALDO ALCKMIN</option>
+									<option value='GUILHERME BOULOS'>GUILHERME BOULOS</option>
+									<option value='HENRIQUE MEIRELLES'>HENRIQUE MEIRELLES</option> 
+									<option value='JAIR BOLSONARO'>JAIR BOLSONARO</option>
+									<option value='JOÃO AMOÊDO'>JOÃO AMOÊDO</option>
+									<option value='JOÃO GOULART FILHO'>JOÃO GOULART FILHO</option>
+									<option value='MARINA SILVA'>MARINA SILVA</option> 
+									<option value='VERA'>VERA</option>
+								</select>
+							</td>							
+						</tr>
+					</table>
+				</form>
+			</div>
+			<div id="hiddenDivSenador" style="border-width:1px;border-style:solid;visibility:hidden;">		
+				<form>
+					<table>
+						<tr> 
+							<td><label><b>Estado</b></label></td>
+							<td>
+								<select name="ufsenador" id="ufsenador" style="width:350px;"><option value=""></option></select>
+							</td>
+						</tr>
+						<tr>						
+							<td><label><b>Nome</b></label></td>
+							<td>
+								<select id="idpolitica2" name="senador" style="display:none; width:350px;" onchange="troca(this.value)"></select>
+							</td>
+							<script type="text/javascript">	
+								var json;
+								ajax = new XMLHttpRequest();		
+								ajax.open('GET', 'https://raw.githubusercontent.com/DanielIzario/sentimentAnalysis/master/estados-senadores.json', true);
+								ajax.send();
+								
+								ajax.onreadystatechange = function() {
+									if(ajax.readyState == 4 && ajax.status == 200) {
+										json = JSON.parse(ajax.responseText);
+										for(i in json.estadossenadores){
+											var estado = json.estadossenadores[i];
+											var option = document.createElement("option");
+											option.text = estado.nomesenador;
+											option.value = estado.siglasenador;
+											var selectUf = document.getElementById("ufsenador");
+											selectUf.appendChild(option);
+										}
+									}
+								}
+
+								document.getElementById('ufsenador').addEventListener('change', function() {	
+									var ufSelecionado = this.value;
+									var selectpoliticos = document.getElementById("idpolitica2");
+									
+									while (selectpoliticos.firstChild) {
+										selectpoliticos.removeChild(selectpoliticos.firstChild);
+									}
+									
+									for(i in json.estadossenadores){
+										var estado = json.estadossenadores[i];			
+										if(estado.siglasenador == ufSelecionado){
+										
+											for(x in estado.senadores){
+												var senador = estado.senadores[x];
+												var option = document.createElement("option");
+												option.text = senador;
+												option.value = estado.senadores[x];
+												selectpoliticos.appendChild(option);
+												selectpoliticos.style.display = null;
+											}
+											return false;
+										}
+									}
+								});
+							</script>							
+						</tr>
+					</table>
+				</form>
+			</div>
+		</div>
+		<br></br>
+		<script type="text/javascript">
+			function troca(val) {
+				document.getElementById("searchText").value = val;
+			}
+		</script>
+		<center><input type="text" id="searchText" placeholder="Escolha o político e clique ENTER!" readonly="true"></center>
+		<br></br>
+		<div class="results">
+			<h3>Resultados:</h3>
+			<lable class="loading">Loading...</lable>
+			<br/>
+			<lable class="error">Ops... Algo deu errado!</lable>
+			<br/>
+		</div>
+		<section class="tweet-results"></section>
+		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script type="text/javascript" src="scripts/app.js"></script>
+		<script type="text/html" id="tweet_tmpl">
+			<article>
+				<div class="left">
+					<img src="{{=imgSrc}}">
+					<p>{{=tweet}}
+					<a href="{{=tweetLink}}" target="_blank">Link</a></p>
+				</div>
+				<div class="right">
+					<table>
+						<tr>
+							<td>Pontuação</td>
+							<td>{{=score}}</td>
+						</tr>
+						<tr>
+							<td>Classificação</td>
+							<td>{{=classificacao}}</td>
+						</tr>
+						<tr>
+							<td>Retweetou</td>
+							<td>{{=retweet}}</td>
+						</tr>
+						<tr>
+							<td>Palavras Encontradas</td>
+							<td>{{=wordsMatched}}</td>
+						</tr>
+						<tr>
+							<td>Palavras Positivas</td>
+							<td>{{=positiveWords}}</td>
+						</tr>
+						<tr>
+							<td>Palavras Negativas</td>
+							<td>{{=negativeWords}}</td>
+						</tr>
+					</table>
+				</div>
+			</article>
+		</script>
+		<script type="text/javascript">
+			function optionCheck(){
+				var option = document.getElementById("options").value;
+				if(option == "Vazio"){
+					document.getElementById("hiddenDivVazio").style.visibility ="visible";
+					document.getElementById("hiddenDivGovernador").style.visibility ="hidden";
+					document.getElementById("hiddenDivPresidente").style.visibility ="hidden";
+					document.getElementById("hiddenDivSenador").style.visibility ="hidden";
+				}
+				if(option == "Governador"){
+					document.getElementById("hiddenDivVazio").style.visibility ="hidden";
+					document.getElementById("hiddenDivGovernador").style.visibility ="visible";
+					document.getElementById("hiddenDivPresidente").style.visibility ="hidden";
+					document.getElementById("hiddenDivSenador").style.visibility ="hidden";
+				}
+				if(option == "Presidente"){
+					document.getElementById("hiddenDivVazio").style.visibility ="hidden";
+					document.getElementById("hiddenDivGovernador").style.visibility ="hidden";
+					document.getElementById("hiddenDivPresidente").style.visibility ="visible";
+					document.getElementById("hiddenDivSenador").style.visibility ="hidden";
+				}
+				if(option == "Senador"){
+					document.getElementById("hiddenDivVazio").style.visibility ="hidden";
+					document.getElementById("hiddenDivGovernador").style.visibility ="hidden";
+					document.getElementById("hiddenDivPresidente").style.visibility ="hidden";
+					document.getElementById("hiddenDivSenador").style.visibility ="visible";
+				}
+			}
+		</script>
+	</body>
+</html>

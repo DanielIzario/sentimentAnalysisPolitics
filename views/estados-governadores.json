@@ -1,0 +1,383 @@
+{
+  "estadosgovernadores": [
+    {
+      "siglagovernador": "AC",
+      "nomegovernador": "Acre",
+      "governadores": [
+		"",
+		"CORONEL ULYSSES",
+		"DAVID HALL",
+		"GLADSON CAMELI",
+		"JANAINA FURTADO",
+		"MARCUS ALEXANDRE"
+      ]
+    },
+    {
+      "siglagovernador": "AL",
+      "nomegovernador": "Alagoas",
+      "governadores": [
+	  	"",
+		"BASILE",
+		"FERNANDO COLLOR",
+		"JOSAN LEITE",
+		"MELQUEZEDEQUE FARIAS",
+		"PINTO DE LUNA",
+		"RENAN FILHO"
+      ]
+    },
+    {
+      "siglagovernador": "AM",
+      "nomegovernador": "Amazonas",
+      "governadores": [
+	  	"",
+		"AMAZONINO MENDES",
+		"BERG DA UGT",
+		"DAVID ALMEIDA",
+		"LUCIA ANTONY",
+		"OMAR AZIZ",
+		"SIDNEY CABRAL",
+		"WILSON LIMA"
+      ]
+    },
+    {
+      "siglagovernador": "AP",
+      "nomegovernador": "Amapá",
+      "governadores": [
+	  	"",
+		"CAPI",
+		"CIRILO FERNANDES",
+		"DAVI",
+		"GIANFRANCO",
+		"WALDEZ"
+      ]
+    },
+    {
+      "siglagovernador": "BA",
+      "nomegovernador": "Bahia",
+      "governadores": [
+	  	"",
+		"CÉLIA SACRAMENTO",
+		"JOÃO HENRIQUE",
+		"JOÃO SANTANA",
+		"MARCOS MENDES",
+		"ORLANDO ANDRADE",
+		"RUI COSTA",
+		"ZÉ RONALDO"
+      ]
+    },
+    {
+      "siglagovernador": "CE",
+      "nomegovernador": "Ceará",
+      "governadores": [
+	  	"",
+		"AILTON LOPES",
+		"CAMILO",
+		"GENERAL THEOPHILO",
+		"GONZAGA",
+		"HÉLIO GÓIS",
+		"MIKAELTON CARANTINO"
+      ]
+    },
+    {
+      "siglagovernador": "DF",
+      "nomegovernador": "Distrito Federal",
+      "governadores": [
+	  	"",
+		"ALBERTO FRAGA",
+		"ALEXANDRE GUERRA",
+		"ELIANA PEDROSA",
+		"FÁTIMA SOUSA",
+		"GENERAL PAULO CHAGAS",
+		"GUILLEN",
+		"IBANEIS",
+		"JÚLIO MIRAGAYA",
+		"RENAN ROSA",
+		"RODRIGO ROLLEMBERG",
+		"ROGÉRIO ROSSO"
+      ]
+    },
+    {
+      "siglagovernador": "ES",
+      "nomegovernador": "Espírito Santo",
+      "governadores": [
+	  	"",
+		"ANDRE MOREIRA",
+		"JACKELINE ROCHA",
+		"MANATO",
+		"PROFESSOR ARIDELMO TEIXEIRA",
+		"RENATO CASAGRANDE",
+		"ROSE DE FREITAS"
+      ]
+    },
+    {
+      "siglagovernador": "GO",
+      "nomegovernador": "Goiás",
+      "governadores": [
+	  	"",
+		"ALDA LUCIA",
+		"DANIEL VILELA",
+		"KÁTIA MARIA",
+		"MARCELO LIRA",
+		"RONALDO CAIADO",
+		"WESLEI GARCIA",
+		"ZÉ ELITON"
+      ]
+    },
+    {
+      "siglagovernador": "MA",
+      "nomegovernador": "Maranhão",
+      "governadores": [
+	  	"",
+		"FLÁVIO DINO",
+		"MAURA JORGE",
+		"ODIVIO NETO",
+		"RAMON ZAPATA",
+		"ROBERTO ROCHA",
+		"ROSEANA SARNEY"
+      ]
+    },
+    {
+      "siglagovernador": "MG",
+      "nomegovernador": "Minas Gerais",
+      "governadores": [
+	  	"",
+		"ADALCLEVER LOPES",
+		"ALEXANDRE FLACH",
+		"ANTONIO ANASTASIA",
+		"CLAUDINEY DULIM",
+		"DIRLENE MARQUES",
+		"FERNANDO PIMENTEL",
+		"JOÃO BATISTA GUIA",
+		"JORDANO METALÚRGICO",
+		"ROMEU ZEMA"
+      ]
+    },
+    {
+      "siglagovernador": "MS",
+      "nomegovernador": "Mato Grosso do Sul",
+      "governadores": [
+	  	"",
+		"HUMBERTO AMADUCCI",
+		"JOAO ALFREDO",
+		"JUIZ ODILON",
+		"JUNIOR MOCHI",
+		"MARCELO BLUMA",
+		"REINALDO AZAMBUJA"
+      ]
+    },
+    {
+      "siglagovernador": "MT",
+      "nomegovernador": "Mato Grosso",
+      "governadores": [
+	  	"",
+		"ARTHUR NOGUEIRA",
+		"MAURO MENDES",
+		"MOISÉS FRANZ",
+		"PEDRO TAQUES",
+		"WELLINGTON FAGUNDES"
+      ]
+    },
+    {
+      "siglagovernador": "PA",
+      "nomegovernador": "Pará",
+      "governadores": [
+	  	"",
+		"CLEBER RABELO",
+		"FERNANDO CARNEIRO",
+		"HELDER",
+		"MARCIO MIRANDA",
+		"PAULO ROCHA"
+      ]
+    },
+    {
+      "siglagovernador": "PB",
+      "nomegovernador": "Paraíba",
+      "governadores": [
+	  	"",
+		"JOÃO",
+		"LUCÉLIO CARTAXO",
+		"RAMA DANTAS",
+		"TÁRCIO TEIXEIRA",
+		"ZÉ MARANHÃO"
+      ]
+    },
+    {
+      "siglagovernador": "PE",
+      "nomegovernador": "Pernambuco",
+      "governadores": [
+	  	"",
+		"ANA PATRICIA ALVES",
+		"ARMANDO MONTEIRO",
+		"DANI PORTELA",
+		"JULIO LOSSIO",
+		"MAURÍCIO RANDS",
+		"PAULO CÂMARA",
+		"SIMONE FONTANA"
+      ]
+    },
+    {
+      "siglagovernador": "PI",
+      "nomegovernador": "Piauí",
+      "governadores": [
+	  	"",
+		"DR. PESSOA",
+		"ELMANO O VEIN TRABALHADOR",
+		"FÁBIO SÉRVIO",
+		"LUCIANE SANTOS",
+		"LUCIANO",
+		"MARIA DE LOURDES",
+		"PROFESSORA SUELI",
+		"ROMUALDO SENO",
+		"VALTER ALENCAR",
+		"WELLINGTON DIAS"
+      ]
+    },
+    {
+      "siglagovernador": "PR",
+      "nomegovernador": "Paraná",
+      "governadores": [
+	  	"",
+		"CIDA BORGHETTI",
+		"DR. ROSINHA",
+		"GEONISIO MARINHO",
+		"JOÃO ARRUDA",
+		"OGIER BUCHI",
+		"PRISCILA EBARA",
+		"PROFESSOR IVAN BERNARDO",
+		"PROFESSOR JORGE BERNARDI",
+		"PROFESSOR PIVA",
+		"RATINHO JUNIOR"
+      ]
+    },
+    {
+      "siglagovernador": "RJ",
+      "nomegovernador": "Rio de Janeiro",
+      "governadores": [
+	  	"",
+		"ANDRÉ MONTEIRO",
+		"DAYSE OLIVEIRA",
+		"EDUARDO PAES",
+		"GAROTINHO",
+		"INDIO",
+		"LUIZ EUGÊNIO HONORATO",
+		"MARCELO TRINDADE",
+		"MARCIA TIBURI",
+		"PEDRO FERNANDES",
+		"ROMÁRIO FARIA",
+		"TARCÍSIO MOTTA",
+		"WILSON WITZEL"
+      ]
+    },
+    {
+      "siglagovernador": "RN",
+      "nomegovernador": "Rio Grande do Norte",
+      "governadores": [
+	  	"",
+		"BRENNO QUEIROGA",
+		"CARLOS EDUARDO",
+		"DÁRIO BARBOSA",
+		"FATIMA BEZERRA",
+		"FREITAS JR",
+		"HERÓ BEZERRA",
+		"PROFESSOR CARLOS ALBERTO",
+		"ROBINSON FARIA"
+      ]
+    },
+    {
+      "siglagovernador": "RO",
+      "nomegovernador": "Rondônia",
+      "governadores": [
+	  	"",
+		"ACIR GURGACZ",
+		"COMENDADOR VALCLEI QUEIROZ",
+		"CORONEL CHARLON",
+		"CORONEL MARCOS ROCHA",
+		"EXPEDITO JUNIOR",
+		"MAURAO DE CARVALHO",
+		"PEDRO NAZARENO",
+		"PIMENTA DE RONDONIA",
+		"VINICIUS MIGUEL"
+      ]
+    },
+    {
+      "siglagovernador": "RS",
+      "nomegovernador": "Rio Grande do Sul",
+      "governadores": [
+	  	"",
+		"EDUARDO LEITE",
+		"JAIRO JORGE",
+		"JOSÉ IVO SARTORI",
+		"JULIO FLORES",
+		"MATEUS BANDEIRA",
+		"MIGUEL ROSSETTO",
+		"PAULO DE OLIVEIRA MEDEIROS",
+		"ROBERTO ROBAINA"
+      ]
+    },
+    {
+      "siglagovernador": "SC",
+      "nomegovernador": "Santa Catarina",
+      "governadores": [
+	  	"",
+		"ÂNGELO CASTRO",
+		"CAMASÃO",
+		"COMANDANTE MOISÉS",
+		"DÉCIO LIMA",
+		"GELSON MERÍSIO",
+		"INGRID ASSIS",
+		"JESSE PEREIRA",
+		"MAURO MARIANI",
+		"PORTANOVA"
+      ]
+    },
+    {
+      "siglagovernador": "SE",
+      "nomegovernador": "Sergipe",
+      "governadores": [
+	  	"",
+		"BELIVALDO",
+		"DR. EMERSON",
+		"EDUARDO AMORIM",
+		"EDUARDO CASSINI",
+		"GILVANI SANTOS",
+		"JOÃO TARANTELLA",
+		"MÁRCIO SOUZA",
+		"MENDONÇA PRADO",
+		"MILTON ANDRADE",
+		"VALADARES FILHO"
+      ]
+    },
+    {
+      "siglagovernador": "SP",
+      "nomegovernador": "São Paulo",
+      "governadores": [
+	  	"",
+		"EDSON DORTA",
+		"JOÃO DORIA",
+		"LILIAN MIRANDA",
+		"LUIZ MARINHO",
+		"MAJOR COSTA E SILVA",
+		"MARCELO CANDIDO",
+		"MARCIO FRANÇA",
+		"PAULO SKAF",
+		"PROF. CLAUDIO FERNANDO",
+		"PROFESSORA LISETE",
+		"RODRIGO TAVARES",
+		"ROGERIO CHEQUER",
+		"TONINHO FERREIRA"
+      ]
+    },
+    {
+      "siglagovernador": "TO",
+      "nomegovernador": "Tocantins",
+      "governadores": [
+	  	"",
+		"BERNADETE APARECIDA",
+		"CARLOS AMASTHA",
+		"CESAR SIMONI",
+		"MARLON REIS",
+		"MAURO CARLESSE"
+      ]
+    }
+  ]
+}
