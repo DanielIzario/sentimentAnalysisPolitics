@@ -8,10 +8,10 @@ var util = require('util'),
 db = db.connect('db', ['sentiments']);
 
 var config = {
-  consumer_key: 'aJPBh565wDOo43pM4W3f5Q0QV',
-  consumer_secret: 'kemb6pReF1phoTk2Vi7tVmMenKP2i4gNGaNmUG0dJi91iz7gvP',
-  access_token_key: '109918896-63tEJKf0H5cr0uSDmAYsIX3HslVxhSLXQjKF7G8p',
-  access_token_secret: 'q9W73V5uMHxDr6lfHjXHw06MTSIrBqOfW5meHnTHQDqOp'
+  consumer_key: '',
+  consumer_secret: '',
+  access_token_key: '',
+  access_token_secret: ''
 }
 
 module.exports = function(text, callback) {

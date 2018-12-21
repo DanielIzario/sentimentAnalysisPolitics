@@ -1,4 +1,4 @@
-// Náthia Marrafon
+// Daniel Izario
 
 module.exports = {
  'sensacional': 1,

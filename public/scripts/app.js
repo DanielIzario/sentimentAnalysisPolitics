@@ -1,4 +1,4 @@
-// Náthia Marrafon
+// Daniel Izario
 
 $(document).ready(function() {
   $("#searchText").on('keypress', function(e) {
