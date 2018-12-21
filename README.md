@@ -1,7 +1,5 @@
 # sentimentAnalysisPolitics
 
-MANUAL:
-
 1.	Instalar o NODEjs;
 2.	Criar uma pasta na área de trabalha e abrir o prompt do NODEjs; 
 3.	Direcionar o prompt do NODEjs para a pasta criada;
